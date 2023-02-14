@@ -13,7 +13,7 @@ GoalTree helps users thoroughly divide their goals into discrete and achievable 
 ## Features
 
 ### My Goals Page
-<img width="1252" alt="Screen Shot 2023-02-13 at 10 18 10 PM" src="https://user-images.githubusercontent.com/87151448/218630582-86477aa7-a317-4eb6-bfd2-6a5c9d2d06de.png">
+<img width="1256" alt="Screen Shot 2023-02-13 at 10 24 45 PM" src="https://user-images.githubusercontent.com/87151448/218631354-718b86ab-61b3-42b6-b917-d0fd0b24cc6e.png">
 
 - Users can view all goals as well as create, delete and update goals
 - Color of the goal reflects the goal’s completion status
